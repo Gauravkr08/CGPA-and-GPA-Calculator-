@@ -6,6 +6,8 @@ A command-line C++ application for calculating GPA (Grade Point Average) and CGP
 - **User Input:** Accepts user input for grades and credits for each subject.
 - **Grade Point System:** Supports a customizable grading system based on user-defined grade points.
 - **Simple and Intuitive:** Easy to use command-line interface.
+# Technologies Used
+- **C++:** Core language for building the application.
 # Usage
 - The program will prompt for the number of subjects in the semester.
 - Enter the grade and corresponding credit hours for each subject.
